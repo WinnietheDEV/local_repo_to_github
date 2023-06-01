@@ -1,1 +1,2 @@
 this is thired txt file
+this line is a bugfix
