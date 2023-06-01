@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-new line in master branch
-=======
 this is woodoo
->>>>>>> newfeature
