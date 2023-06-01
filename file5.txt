@@ -1,2 +1,6 @@
 this is thired txt file
 this line is a bugfix
+<<<<<<< HEAD
+=======
+add new thing
+>>>>>>> newfeature
